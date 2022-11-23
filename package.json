@@ -1,0 +1,8 @@
+{
+  "name": "custom-node",
+  "node-red": {
+    "nodes": {
+      "lower-case": "custom-node.js"
+    }
+  }
+}
